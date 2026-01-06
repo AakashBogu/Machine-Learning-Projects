@@ -1,5 +1,4 @@
-ml-learning
-Learning machine learning fundamentals through small implementations
+
 
 # ML Learning Projects
 
@@ -13,5 +12,6 @@ Project work will start soon. This repository is being set up to track progress 
 
 Goal:
 Understand the end-to-end machine learning workflow from data to evaluation.
+
 
 
