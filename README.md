@@ -11,7 +11,7 @@ Project work will start soon. This repository is being set up to track progress 
 - House Price Prediction (Regression)
 
 Goal:
-Understand the end-to-end machine learning workflow from data to evaluation.
+Understand the end-to-end machine learning workflow from data to evaluation. 
 
 
 
