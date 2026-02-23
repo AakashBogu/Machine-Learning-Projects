@@ -56,9 +56,3 @@ The goal of this repository is to demonstrate practical implementation of core m
 
 Aakash  
 Computer Science Student  
-
-**`create_matrix(df)`**  
-Takes the ratings DataFrame and converts it into a sparse CSR matrix. Returns the matrix along with two dictionaries for mapping movie titles to indices and back.
-
-**`recommend_movies(movie_title, X, movie_mapper, movie_inv_mapper, k=5)`**  
-Looks up the movie in the matrix, runs KNN, and returns a list of `k` similar movie titles. Returns an error message if the title isn't in the dataset.
