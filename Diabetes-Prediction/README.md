@@ -106,7 +106,7 @@ Final prediction is chosen using **mode (majority vote)**.
 
 ---
 
-## 📊 Model Evaluation
+## Model Evaluation
 
 Each model was evaluated using:
 
@@ -118,7 +118,7 @@ Confusion matrices were plotted using Seaborn heatmaps for better visualization.
 
 ---
 
-## 🔮 Custom Disease Prediction Function
+##  Custom Disease Prediction Function
 
 You can predict disease by passing symptoms as a comma-separated string.
 
@@ -141,12 +141,12 @@ predict_disease("skin_rash,fever,headache")
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 1. User enters symptoms
 2. System converts symptoms into binary feature vector
 3. Each model predicts disease
 4. Final result is selected using majority voting
 
-Just tell me what you need, Aakash 🚀
+
 
