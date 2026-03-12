@@ -23,7 +23,7 @@ The project uses a `rating.csv` file with the following columns:
 | `title`   | Movie title                       |
 | `rating`  | Rating given by the user (0.5–5)  |
 
-The dataset comes from [MovieLens](https://grouplens.org/datasets/movielens/), a well-known benchmark for recommendation systems.
+
 
 ---
 
