@@ -5,7 +5,7 @@ Each project includes data preprocessing, model building, evaluation, and result
 
 ---
 
-## 📌 Projects Included
+# 📌 Projects Included
 
 ### 1️⃣ Diabetes Prediction
 Predict whether a patient has diabetes based on medical diagnostic measurements.
