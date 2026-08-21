@@ -50,7 +50,7 @@ The goal of this repository is to demonstrate practical implementation of core m
 - Model Evaluation
 - Feature Engineering
 
----
+--- 
 
 ## 👨‍💻 Author
 
